@@ -1,0 +1,15 @@
+body{
+    background-color: lightgreen;
+}
+#score{
+    margin-left: 20px;
+    font-size: medium;
+}
+#time{
+    font-size: medium;
+    float: right;
+    margin-right: 20px;
+}
+#askSketch{
+    color: red;
+}
